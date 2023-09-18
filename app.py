@@ -72,5 +72,4 @@ if st.button('Recommend'):
 
    st.markdown("<h1 style='text-align: center;'>Thank You For Visiting!</h1>", unsafe_allow_html=True)
 
-if __main__===='__recommend__':
-    recommend()
+
