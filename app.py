@@ -71,5 +71,3 @@ if st.button('Recommend'):
        st.image(recommended_movies_poster[4])
 
    st.markdown("<h1 style='text-align: center;'>Thank You For Visiting!</h1>", unsafe_allow_html=True)
-
-
